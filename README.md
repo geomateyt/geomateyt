@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you don't
+- 📫 How to reach me? You don't
 
 <!---
 geomateyt/geomateyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
